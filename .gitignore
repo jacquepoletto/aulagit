@@ -3,3 +3,6 @@
 
 # indicar um conjunto de arquivos
 *.lib
+
+# indicar uma pasta
+lib/
